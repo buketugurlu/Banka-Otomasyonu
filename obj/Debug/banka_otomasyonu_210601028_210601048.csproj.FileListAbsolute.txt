@@ -1,0 +1,66 @@
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.exe.config
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.exe
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.pdb
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.AssemblyReference.cache
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.SuggestedBindingRedirects.cache
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.anasayfa.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.bankaRaporu.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapAcma.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapKapama.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapOzeti.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.paraCekme.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.paraYatırma.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.Properties.Resources.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.yeniMusteri.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.GenerateResource.cache
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.CoreCompileInputs.cache
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.exe
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.pdb
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.havaleBireysel.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.havaleTicari.resources
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapListesi.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.AssemblyReference.cache
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.anasayfa.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.bankaRaporu.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.havaleBireysel.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.havaleTicari.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapAcma.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapKapama.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapListesi.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapOzeti.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.HesapÖzetiListeleri.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.musteriListele.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.paraCekme.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.paraYatırma.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.Properties.Resources.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.yeniMusteri.resources
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.GenerateResource.cache
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.CoreCompileInputs.cache
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.exe
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.pdb
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.exe.config
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.exe
+C:\Users\cemre\OneDrive\Masaüstü\banka 4 ocak\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.pdb
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.exe.config
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.exe
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\bin\Debug\banka_otomasyonu_210601028_210601048.pdb
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.AssemblyReference.cache
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.SuggestedBindingRedirects.cache
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.anasayfa.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.bankaRaporu.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.havaleBireysel.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.havaleTicari.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapAcma.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapKapama.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapListesi.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.hesapOzeti.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.HesapÖzetiListeleri.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.paraCekme.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.paraYatırma.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.Properties.Resources.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.yeniMusteri.resources
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.GenerateResource.cache
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.exe
+C:\Users\huawei\Downloads\banka 4 ocak\banka 4 ocak\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.pdb
+C:\Users\huawei\OneDrive\Masaüstü\banka_otomasyonu_210601028_210601048\obj\Debug\banka_otomasyonu_210601028_210601048.HesapÖzetiListeleri.resources
